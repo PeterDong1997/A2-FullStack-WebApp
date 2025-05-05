@@ -35,6 +35,7 @@ The application includes user-facing functionality such as:
 
 ## Repository Structure
 
+```
 your-repo/
 │
 ├── app.py # Main Flask app
@@ -51,6 +52,7 @@ your-repo/
 │ └── schema.sql
 ├── tasks.md # Task and contribution tracker
 └── README.md
+```
 
 ---
 
